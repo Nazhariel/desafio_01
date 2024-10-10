@@ -3,7 +3,7 @@
 ## Datos y links
 
 * Nombre: Nataniel Nazar
-* Link Github Repo: 
+* [Link Github Repo](https://github.com/Nazhariel/desafio_01.git)
 * [Link Netlify](https://inspiring-kataifi-2fee1f.netlify.app)
 
 ### Nota:
